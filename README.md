@@ -56,6 +56,7 @@ This organization promotes modularity and reusability of the code components.
 This project successfully demonstrated the use of an autoencoder for pseudo-random data generation. The trained model can generate new data instances that are similar to the training data.
 
 Future work could include:
+![Example](image.png "Optional Title")
 
 *   Implementing a quantitative evaluation metric to assess the diversity and quality of the generated data.
 *   Experimenting with different autoencoder architectures (e.g., convolutional autoencoders for image data) and hyperparameters to potentially improve the quality of the generated data.
